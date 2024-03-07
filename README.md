@@ -1,5 +1,6 @@
 # build-a-chatbot-to-analyze-pdf-files-using-llm
-Author: IBM Skills Network, Sina Nazeri, Arifian Saputra
+Author: IBM Skills Network, Sina Nazeri, Talha Siddiqui
+Contibutor: Arifian Saputra
 
 Mentee assignment from IBM Advance A.I. @ Infinite Learning 
 Course completion of Build a Chatbot to Analyze PDF Files using LLM from IBM Skills Network
@@ -34,6 +35,7 @@ Name     : Arifian Saputra
 ## Credits:
 - Parents
 - Sina Nazeri
+- Talha Siddiqui
 - Arifian Saputra
 - Infinite Learning
 - IBM Academy
